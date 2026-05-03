@@ -1,0 +1,56 @@
+{
+  "name": "🔥 SLUT VPN — БЕЗ ЦЕНЗУРЫ 🔥",
+  "description": "🖤 Анонимно. Мгновенно. Для тех, кто не прячется. 🖤\n→ Reality + XTLS Vision\n→ Нет логов | Безлимит\n→ Сервера: EU + RU\n→ Подписка обновляется: 2026-05-03",
+  "servers": [
+    {
+      "tag": "❤️ Finland [4K] ❤️",
+      "address": "most-fi.harknmav.fun",
+      "port": 443,
+      "protocol": "vless",
+      "uuid": "63f97e2e-4d76-4317-a838-3f8bd8efdfe3",
+      "flow": "xtls-rprx-vision",
+      "security": "reality",
+      "encryption": "none",
+      "sni": "max.ru",
+      "fingerprint": "firefox",
+      "public_key": "sTAZd6Yesl0kfJOdz_mZuQGBpjHN5HVHZzpwpGKzLTc",
+      "short_id": "4a752b0d4d15e0f9",
+      "type": "tcp",
+      "header_type": "none"
+    },
+    {
+      "tag": "🔥 Germany  🔥",
+      "address": "de.vz-or.com",
+      "port": 443,
+      "protocol": "vless",
+      "uuid": "bb40a807-3675-4a10-8d59-50a57a3db8a8",
+      "flow": "",
+      "security": "reality",
+      "encryption": "none",
+      "sni": "sun9-37.userapi.com",
+      "fingerprint": "qq",
+      "public_key": "RJETAkoZ6lowmwc5f0HtPy00c3dfojqQuypriLExXRE",
+      "short_id": "abbcd128",
+      "type": "tcp",
+      "header_type": "none"
+    },
+    {
+      "tag": "💨 Мобильная свзязь БЕТА 💨",
+      "address": "hole.vz-or.com",
+      "port": 443,
+      "protocol": "vless",
+      "uuid": "bb40a807-3675-4a10-8d59-50a57a3db8a8",
+      "flow": "xtls-rprx-vision",
+      "security": "reality",
+      "encryption": "none",
+      "sni": "ads.x5.ru",
+      "fingerprint": "qq",
+      "public_key": "RJETAkoZ6lowmwc5f0HtPy00c3dfojqQuypriLExXRE",
+      "short_id": "abbcd128",
+      "type": "tcp",
+      "header_type": "none"
+    }
+  ],
+  "version": 1,
+  "updated_at": "2026-05-03T12:00:00Z"
+}
